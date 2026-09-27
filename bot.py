@@ -16,7 +16,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "8964339947:AAHmibnlPKzSqRRwhpdtHkuapsVvvoWZe3Y"
 
 db = sqlite3.connect("xo_bot.db", check_same_thread=False)
 cursor = db.cursor()
